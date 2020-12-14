@@ -17,7 +17,7 @@ resources that can be shared with the QGIS Resources Sharing.
 
 [**Simbologias do Sistema de Classificação de Uso da Terra - SCUT **](https://github.com/qgisbr/QGISBR-Resources/tree/main/collections/grid_polygon): Simbologias das classes da cobertura e uso da terra Níveis I e II do Sistema de Classificação de Uso da Terra - SCUT 
 
-![Simbologias](collections/sistema_classificacao_uso_terra_scut/uso_terra.xml)
+![Simbologias](collections/sistema_classificacao_uso_terra_scut/preview/uso_terra.png)
 
 
 
