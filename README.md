@@ -15,7 +15,7 @@ resources that can be shared with the QGIS Resources Sharing.
 
 ![Simbologias](collections/classificacao_solos_embrapa/preview/solos.png)
 
-[**Simbologias do Sistema de Classificação de Uso da Terra - SCUT **](https://github.com/qgisbr/QGISBR-Resources/tree/main/collections/sistema_classificacao_uso_terra_scut): Simbologias das classes da cobertura e uso da terra Níveis I e II do Sistema de Classificação de Uso da Terra - SCUT 
+[**Simbologias do Sistema de Classificação de Uso da Terra - SCUT**](https://github.com/qgisbr/QGISBR-Resources/tree/main/collections/sistema_classificacao_uso_terra_scut): Simbologias das classes da cobertura e uso da terra Níveis I e II do Sistema de Classificação de Uso da Terra - SCUT 
 
 ![Simbologias](collections/sistema_classificacao_uso_terra_scut/preview/uso_terra.png)
 
