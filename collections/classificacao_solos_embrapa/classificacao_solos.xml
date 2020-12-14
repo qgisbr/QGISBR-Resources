@@ -1,0 +1,930 @@
+<!DOCTYPE qgis_style>
+<qgis_style version="1">
+  <symbols>
+    <symbol name="Argissolos Amarelos" force_rhr="0" tags="Sistema Brasileiro de Classificação de Solos" alpha="1" clip_to_extent="1" type="fill">
+      <layer pass="0" locked="0" enabled="1" class="SimpleFill">
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="color" v="253,241,240,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="145,145,145,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" name="name" type="QString"/>
+            <Option name="properties"/>
+            <Option value="collection" name="type" type="QString"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol name="Argissolos Bruno-Acinzentados" force_rhr="0" tags="Sistema Brasileiro de Classificação de Solos" alpha="1" clip_to_extent="1" type="fill">
+      <layer pass="0" locked="0" enabled="1" class="SimpleFill">
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="color" v="241,204,200,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="145,145,145,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" name="name" type="QString"/>
+            <Option name="properties"/>
+            <Option value="collection" name="type" type="QString"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol name="Argissolos Vermelho-Amarelos" force_rhr="0" tags="Sistema Brasileiro de Classificação de Solos" alpha="1" clip_to_extent="1" type="fill">
+      <layer pass="0" locked="0" enabled="1" class="SimpleFill">
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="color" v="249,210,205,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="145,145,145,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" name="name" type="QString"/>
+            <Option name="properties"/>
+            <Option value="collection" name="type" type="QString"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol name="Argissolos Vermelhos" force_rhr="0" tags="Sistema Brasileiro de Classificação de Solos" alpha="1" clip_to_extent="1" type="fill">
+      <layer pass="0" locked="0" enabled="1" class="SimpleFill">
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="color" v="240,165,157,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="145,145,145,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" name="name" type="QString"/>
+            <Option name="properties"/>
+            <Option value="collection" name="type" type="QString"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol name="Cambissolos Flúvicos" force_rhr="0" tags="Sistema Brasileiro de Classificação de Solos" alpha="1" clip_to_extent="1" type="fill">
+      <layer pass="0" locked="0" enabled="1" class="SimpleFill">
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="color" v="235,219,191,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="145,145,145,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" name="name" type="QString"/>
+            <Option name="properties"/>
+            <Option value="collection" name="type" type="QString"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol name="Cambissolos Háplicos" force_rhr="0" tags="Sistema Brasileiro de Classificação de Solos" alpha="1" clip_to_extent="1" type="fill">
+      <layer pass="0" locked="0" enabled="1" class="SimpleFill">
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="color" v="215,197,165,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="145,145,145,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" name="name" type="QString"/>
+            <Option name="properties"/>
+            <Option value="collection" name="type" type="QString"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol name="Cambissolos Húmicos" force_rhr="0" tags="Sistema Brasileiro de Classificação de Solos" alpha="1" clip_to_extent="1" type="fill">
+      <layer pass="0" locked="0" enabled="1" class="SimpleFill">
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="color" v="207,182,128,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="145,145,145,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" name="name" type="QString"/>
+            <Option name="properties"/>
+            <Option value="collection" name="type" type="QString"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol name="Chernossolos Argilúvicos" force_rhr="0" tags="Sistema Brasileiro de Classificação de Solos" alpha="1" clip_to_extent="1" type="fill">
+      <layer pass="0" locked="0" enabled="1" class="SimpleFill">
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="color" v="156,74,78,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="145,145,145,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" name="name" type="QString"/>
+            <Option name="properties"/>
+            <Option value="collection" name="type" type="QString"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol name="Chernossolos Ebânicos" force_rhr="0" tags="Sistema Brasileiro de Classificação de Solos" alpha="1" clip_to_extent="1" type="fill">
+      <layer pass="0" locked="0" enabled="1" class="SimpleFill">
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="color" v="170,134,134,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="145,145,145,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" name="name" type="QString"/>
+            <Option name="properties"/>
+            <Option value="collection" name="type" type="QString"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol name="Chernossolos Háplicos" force_rhr="0" tags="Sistema Brasileiro de Classificação de Solos" alpha="1" clip_to_extent="1" type="fill">
+      <layer pass="0" locked="0" enabled="1" class="SimpleFill">
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="color" v="168,106,112,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="145,145,145,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" name="name" type="QString"/>
+            <Option name="properties"/>
+            <Option value="collection" name="type" type="QString"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol name="Chernossolos Rêndzicos" force_rhr="0" tags="Sistema Brasileiro de Classificação de Solos" alpha="1" clip_to_extent="1" type="fill">
+      <layer pass="0" locked="0" enabled="1" class="SimpleFill">
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="color" v="142,104,86,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="145,145,145,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" name="name" type="QString"/>
+            <Option name="properties"/>
+            <Option value="collection" name="type" type="QString"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol name="Espodossolos Ferrihumilúvicos" force_rhr="0" tags="Sistema Brasileiro de Classificação de Solos" alpha="1" clip_to_extent="1" type="fill">
+      <layer pass="0" locked="0" enabled="1" class="SimpleFill">
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="color" v="154,172,188,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="145,145,145,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" name="name" type="QString"/>
+            <Option name="properties"/>
+            <Option value="collection" name="type" type="QString"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol name="Espodossolos Ferrilúvicos" force_rhr="0" tags="Sistema Brasileiro de Classificação de Solos" alpha="1" clip_to_extent="1" type="fill">
+      <layer pass="0" locked="0" enabled="1" class="SimpleFill">
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="color" v="182,190,197,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="145,145,145,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" name="name" type="QString"/>
+            <Option name="properties"/>
+            <Option value="collection" name="type" type="QString"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol name="Espodossolos Humilúvicos" force_rhr="0" tags="Sistema Brasileiro de Classificação de Solos" alpha="1" clip_to_extent="1" type="fill">
+      <layer pass="0" locked="0" enabled="1" class="SimpleFill">
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="color" v="154,172,186,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="145,145,145,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" name="name" type="QString"/>
+            <Option name="properties"/>
+            <Option value="collection" name="type" type="QString"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol name="Gleissolos Háplicos" force_rhr="0" tags="Sistema Brasileiro de Classificação de Solos" alpha="1" clip_to_extent="1" type="fill">
+      <layer pass="0" locked="0" enabled="1" class="SimpleFill">
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="color" v="182,216,238,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="145,145,145,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" name="name" type="QString"/>
+            <Option name="properties"/>
+            <Option value="collection" name="type" type="QString"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol name="Gleissolos Melânicos" force_rhr="0" tags="Sistema Brasileiro de Classificação de Solos" alpha="1" clip_to_extent="1" type="fill">
+      <layer pass="0" locked="0" enabled="1" class="SimpleFill">
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="color" v="150,199,230,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="145,145,145,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" name="name" type="QString"/>
+            <Option name="properties"/>
+            <Option value="collection" name="type" type="QString"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol name="Gleissolos Sálicos" force_rhr="0" tags="Sistema Brasileiro de Classificação de Solos" alpha="1" clip_to_extent="1" type="fill">
+      <layer pass="0" locked="0" enabled="1" class="SimpleFill">
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="color" v="94,180,230,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="145,145,145,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" name="name" type="QString"/>
+            <Option name="properties"/>
+            <Option value="collection" name="type" type="QString"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol name="Gleissolos Tiomórficos" force_rhr="0" tags="Sistema Brasileiro de Classificação de Solos" alpha="1" clip_to_extent="1" type="fill">
+      <layer pass="0" locked="0" enabled="1" class="SimpleFill">
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="color" v="108,163,205,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="145,145,145,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" name="name" type="QString"/>
+            <Option name="properties"/>
+            <Option value="collection" name="type" type="QString"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol name="Latossolos Amarelos" force_rhr="0" tags="Sistema Brasileiro de Classificação de Solos" alpha="1" clip_to_extent="1" type="fill">
+      <layer pass="0" locked="0" enabled="1" class="SimpleFill">
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="color" v="254,243,175,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="145,145,145,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" name="name" type="QString"/>
+            <Option name="properties"/>
+            <Option value="collection" name="type" type="QString"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol name="Latossolos Brunos" force_rhr="0" tags="Sistema Brasileiro de Classificação de Solos" alpha="1" clip_to_extent="1" type="fill">
+      <layer pass="0" locked="0" enabled="1" class="SimpleFill">
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="color" v="236,213,131,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="145,145,145,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" name="name" type="QString"/>
+            <Option name="properties"/>
+            <Option value="collection" name="type" type="QString"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol name="Latossolos Vermelho-Amarelos" force_rhr="0" tags="Sistema Brasileiro de Classificação de Solos" alpha="1" clip_to_extent="1" type="fill">
+      <layer pass="0" locked="0" enabled="1" class="SimpleFill">
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="color" v="247,209,166,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="145,145,145,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" name="name" type="QString"/>
+            <Option name="properties"/>
+            <Option value="collection" name="type" type="QString"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol name="Latossolos Vermelhos" force_rhr="0" tags="Sistema Brasileiro de Classificação de Solos" alpha="1" clip_to_extent="1" type="fill">
+      <layer pass="0" locked="0" enabled="1" class="SimpleFill">
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="color" v="244,185,128,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="145,145,145,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" name="name" type="QString"/>
+            <Option name="properties"/>
+            <Option value="collection" name="type" type="QString"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol name="Luvissolos Crômicos" force_rhr="0" tags="Sistema Brasileiro de Classificação de Solos" alpha="1" clip_to_extent="1" type="fill">
+      <layer pass="0" locked="0" enabled="1" class="SimpleFill">
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="color" v="212,150,22,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="145,145,145,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" name="name" type="QString"/>
+            <Option name="properties"/>
+            <Option value="collection" name="type" type="QString"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol name="Luvissolos Háplicos" force_rhr="0" tags="Sistema Brasileiro de Classificação de Solos" alpha="1" clip_to_extent="1" type="fill">
+      <layer pass="0" locked="0" enabled="1" class="SimpleFill">
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="color" v="215,178,122,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="145,145,145,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" name="name" type="QString"/>
+            <Option name="properties"/>
+            <Option value="collection" name="type" type="QString"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol name="Neossolos Flúvicos" force_rhr="0" tags="Sistema Brasileiro de Classificação de Solos" alpha="1" clip_to_extent="1" type="fill">
+      <layer pass="0" locked="0" enabled="1" class="SimpleFill">
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="color" v="238,235,220,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="145,145,145,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" name="name" type="QString"/>
+            <Option name="properties"/>
+            <Option value="collection" name="type" type="QString"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol name="Neossolos Litólicos" force_rhr="0" tags="Sistema Brasileiro de Classificação de Solos" alpha="1" clip_to_extent="1" type="fill">
+      <layer pass="0" locked="0" enabled="1" class="SimpleFill">
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="color" v="150,149,149,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="145,145,145,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" name="name" type="QString"/>
+            <Option name="properties"/>
+            <Option value="collection" name="type" type="QString"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol name="Neossolos Quartzarênicos" force_rhr="0" tags="Sistema Brasileiro de Classificação de Solos" alpha="1" clip_to_extent="1" type="fill">
+      <layer pass="0" locked="0" enabled="1" class="SimpleFill">
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="color" v="255,254,227,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="145,145,145,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" name="name" type="QString"/>
+            <Option name="properties"/>
+            <Option value="collection" name="type" type="QString"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol name="Neossolos Regolíticos" force_rhr="0" tags="Sistema Brasileiro de Classificação de Solos" alpha="1" clip_to_extent="1" type="fill">
+      <layer pass="0" locked="0" enabled="1" class="SimpleFill">
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="color" v="207,206,206,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="145,145,145,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" name="name" type="QString"/>
+            <Option name="properties"/>
+            <Option value="collection" name="type" type="QString"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol name="Nitossolos Brunos" force_rhr="0" tags="Sistema Brasileiro de Classificação de Solos" alpha="1" clip_to_extent="1" type="fill">
+      <layer pass="0" locked="0" enabled="1" class="SimpleFill">
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="color" v="193,163,143,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="145,145,145,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" name="name" type="QString"/>
+            <Option name="properties"/>
+            <Option value="collection" name="type" type="QString"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol name="Nitossolos Háplicos" force_rhr="0" tags="Sistema Brasileiro de Classificação de Solos" alpha="1" clip_to_extent="1" type="fill">
+      <layer pass="0" locked="0" enabled="1" class="SimpleFill">
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="color" v="246,198,171,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="145,145,145,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" name="name" type="QString"/>
+            <Option name="properties"/>
+            <Option value="collection" name="type" type="QString"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol name="Nitossolos Vermelhos" force_rhr="0" tags="Sistema Brasileiro de Classificação de Solos" alpha="1" clip_to_extent="1" type="fill">
+      <layer pass="0" locked="0" enabled="1" class="SimpleFill">
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="color" v="216,171,146,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="145,145,145,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" name="name" type="QString"/>
+            <Option name="properties"/>
+            <Option value="collection" name="type" type="QString"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol name="Organossolos Fólicos" force_rhr="0" tags="Sistema Brasileiro de Classificação de Solos" alpha="1" clip_to_extent="1" type="fill">
+      <layer pass="0" locked="0" enabled="1" class="SimpleFill">
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="color" v="133,150,193,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="145,145,145,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" name="name" type="QString"/>
+            <Option name="properties"/>
+            <Option value="collection" name="type" type="QString"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol name="Organossolos Háplicos" force_rhr="0" tags="Sistema Brasileiro de Classificação de Solos" alpha="1" clip_to_extent="1" type="fill">
+      <layer pass="0" locked="0" enabled="1" class="SimpleFill">
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="color" v="167,179,213,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="145,145,145,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" name="name" type="QString"/>
+            <Option name="properties"/>
+            <Option value="collection" name="type" type="QString"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol name="Organossolos Tiomórficos" force_rhr="0" tags="Sistema Brasileiro de Classificação de Solos" alpha="1" clip_to_extent="1" type="fill">
+      <layer pass="0" locked="0" enabled="1" class="SimpleFill">
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="color" v="94,129,161,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="145,145,145,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" name="name" type="QString"/>
+            <Option name="properties"/>
+            <Option value="collection" name="type" type="QString"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol name="Planossolos Háplicos" force_rhr="0" tags="Sistema Brasileiro de Classificação de Solos" alpha="1" clip_to_extent="1" type="fill">
+      <layer pass="0" locked="0" enabled="1" class="SimpleFill">
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="color" v="181,214,174,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="145,145,145,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" name="name" type="QString"/>
+            <Option name="properties"/>
+            <Option value="collection" name="type" type="QString"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol name="Planossolos Nátricos" force_rhr="0" tags="Sistema Brasileiro de Classificação de Solos" alpha="1" clip_to_extent="1" type="fill">
+      <layer pass="0" locked="0" enabled="1" class="SimpleFill">
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="color" v="137,202,199,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="145,145,145,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" name="name" type="QString"/>
+            <Option name="properties"/>
+            <Option value="collection" name="type" type="QString"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol name="Plintossolos Argilúvicos" force_rhr="0" tags="Sistema Brasileiro de Classificação de Solos" alpha="1" clip_to_extent="1" type="fill">
+      <layer pass="0" locked="0" enabled="1" class="SimpleFill">
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="color" v="227,179,205,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="145,145,145,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" name="name" type="QString"/>
+            <Option name="properties"/>
+            <Option value="collection" name="type" type="QString"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol name="Plintossolos Háplicos" force_rhr="0" tags="Sistema Brasileiro de Classificação de Solos" alpha="1" clip_to_extent="1" type="fill">
+      <layer pass="0" locked="0" enabled="1" class="SimpleFill">
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="color" v="214,186,201,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="145,145,145,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" name="name" type="QString"/>
+            <Option name="properties"/>
+            <Option value="collection" name="type" type="QString"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol name="Plintossolos Pétricos" force_rhr="0" tags="Sistema Brasileiro de Classificação de Solos" alpha="1" clip_to_extent="1" type="fill">
+      <layer pass="0" locked="0" enabled="1" class="SimpleFill">
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="color" v="236,172,203,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="145,145,145,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" name="name" type="QString"/>
+            <Option name="properties"/>
+            <Option value="collection" name="type" type="QString"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol name="Vertissolos Ebânicos" force_rhr="0" tags="Sistema Brasileiro de Classificação de Solos" alpha="1" clip_to_extent="1" type="fill">
+      <layer pass="0" locked="0" enabled="1" class="SimpleFill">
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="color" v="134,143,114,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="145,145,145,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" name="name" type="QString"/>
+            <Option name="properties"/>
+            <Option value="collection" name="type" type="QString"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol name="Vertissolos Hidromórficos" force_rhr="0" tags="Sistema Brasileiro de Classificação de Solos" alpha="1" clip_to_extent="1" type="fill">
+      <layer pass="0" locked="0" enabled="1" class="SimpleFill">
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="color" v="158,170,133,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="145,145,145,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" name="name" type="QString"/>
+            <Option name="properties"/>
+            <Option value="collection" name="type" type="QString"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol name="Vertissolos Háplicos" force_rhr="0" tags="Sistema Brasileiro de Classificação de Solos" alpha="1" clip_to_extent="1" type="fill">
+      <layer pass="0" locked="0" enabled="1" class="SimpleFill">
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="color" v="192,192,145,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="145,145,145,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" name="name" type="QString"/>
+            <Option name="properties"/>
+            <Option value="collection" name="type" type="QString"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+  </symbols>
+  <colorramps/>
+</qgis_style>
