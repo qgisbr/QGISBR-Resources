@@ -1,0 +1,1218 @@
+<!DOCTYPE qgis_style>
+<qgis_style version="2">
+  <symbols>
+    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DCAalc" force_rhr="0" clip_to_extent="1">
+      <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+        <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+        <prop v="215,158,158,255" k="color"/>
+        <prop v="bevel" k="joinstyle"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Pixel" k="offset_unit"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="no" k="outline_style"/>
+        <prop v="1" k="outline_width"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="solid" k="style"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DCAsbalc" force_rhr="0" clip_to_extent="1">
+      <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+        <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+        <prop v="205,102,102,255" k="color"/>
+        <prop v="bevel" k="joinstyle"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Pixel" k="offset_unit"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="no" k="outline_style"/>
+        <prop v="1" k="outline_width"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="solid" k="style"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DCDL" force_rhr="0" clip_to_extent="1">
+      <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+        <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+        <prop v="216,159,82,255" k="color"/>
+        <prop v="bevel" k="joinstyle"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Pixel" k="offset_unit"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="no" k="outline_style"/>
+        <prop v="1" k="outline_width"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="solid" k="style"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DCGMGLaf" force_rhr="0" clip_to_extent="1">
+      <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+        <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+        <prop v="203,171,235,255" k="color"/>
+        <prop v="bevel" k="joinstyle"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Pixel" k="offset_unit"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="no" k="outline_style"/>
+        <prop v="1" k="outline_width"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="solid" k="style"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DCGMGLglo" force_rhr="0" clip_to_extent="1">
+      <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+        <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+        <prop v="242,121,172,255" k="color"/>
+        <prop v="bevel" k="joinstyle"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Pixel" k="offset_unit"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="no" k="outline_style"/>
+        <prop v="1" k="outline_width"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="solid" k="style"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DCGMGLglp" force_rhr="0" clip_to_extent="1">
+      <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+        <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+        <prop v="246,100,145,255" k="color"/>
+        <prop v="bevel" k="joinstyle"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Pixel" k="offset_unit"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="no" k="outline_style"/>
+        <prop v="1" k="outline_width"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="solid" k="style"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DCGMGLgno" force_rhr="0" clip_to_extent="1">
+      <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+        <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+        <prop v="245,223,247,255" k="color"/>
+        <prop v="bevel" k="joinstyle"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Pixel" k="offset_unit"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="no" k="outline_style"/>
+        <prop v="1" k="outline_width"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="solid" k="style"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DCGMGLgnp" force_rhr="0" clip_to_extent="1">
+      <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+        <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+        <prop v="202,168,224,255" k="color"/>
+        <prop v="bevel" k="joinstyle"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Pixel" k="offset_unit"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="no" k="outline_style"/>
+        <prop v="1" k="outline_width"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="solid" k="style"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DCGMGLmo" force_rhr="0" clip_to_extent="1">
+      <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+        <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+        <prop v="207,171,229,255" k="color"/>
+        <prop v="bevel" k="joinstyle"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Pixel" k="offset_unit"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="no" k="outline_style"/>
+        <prop v="1" k="outline_width"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="solid" k="style"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DCGR1alc" force_rhr="0" clip_to_extent="1">
+      <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+        <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+        <prop v="255,167,127,255" k="color"/>
+        <prop v="bevel" k="joinstyle"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Pixel" k="offset_unit"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="no" k="outline_style"/>
+        <prop v="1" k="outline_width"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="solid" k="style"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DCGR1pal" force_rhr="0" clip_to_extent="1">
+      <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+        <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+        <prop v="250,162,125,255" k="color"/>
+        <prop v="bevel" k="joinstyle"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Pixel" k="offset_unit"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="no" k="outline_style"/>
+        <prop v="1" k="outline_width"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="solid" k="style"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DCGR1salc" force_rhr="0" clip_to_extent="1">
+      <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+        <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+        <prop v="245,122,122,255" k="color"/>
+        <prop v="bevel" k="joinstyle"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Pixel" k="offset_unit"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="no" k="outline_style"/>
+        <prop v="1" k="outline_width"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="solid" k="style"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DCGR1sho" force_rhr="0" clip_to_extent="1">
+      <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+        <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+        <prop v="255,167,127,255" k="color"/>
+        <prop v="bevel" k="joinstyle"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Pixel" k="offset_unit"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="no" k="outline_style"/>
+        <prop v="1" k="outline_width"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="solid" k="style"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DCGR2alc" force_rhr="0" clip_to_extent="1">
+      <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+        <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+        <prop v="255,127,127,255" k="color"/>
+        <prop v="bevel" k="joinstyle"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Pixel" k="offset_unit"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="no" k="outline_style"/>
+        <prop v="1" k="outline_width"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="solid" k="style"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DCGR2pal" force_rhr="0" clip_to_extent="1">
+      <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+        <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+        <prop v="214,175,156,255" k="color"/>
+        <prop v="bevel" k="joinstyle"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Pixel" k="offset_unit"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="no" k="outline_style"/>
+        <prop v="1" k="outline_width"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="solid" k="style"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DCGR2salc" force_rhr="0" clip_to_extent="1">
+      <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+        <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+        <prop v="214,193,156,255" k="color"/>
+        <prop v="bevel" k="joinstyle"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Pixel" k="offset_unit"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="no" k="outline_style"/>
+        <prop v="1" k="outline_width"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="solid" k="style"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DCGR3in" force_rhr="0" clip_to_extent="1">
+      <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+        <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+        <prop v="231,213,247,255" k="color"/>
+        <prop v="bevel" k="joinstyle"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Pixel" k="offset_unit"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="no" k="outline_style"/>
+        <prop v="1" k="outline_width"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="solid" k="style"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DCGR3pal" force_rhr="0" clip_to_extent="1">
+      <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+        <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+        <prop v="237,223,232,255" k="color"/>
+        <prop v="bevel" k="joinstyle"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Pixel" k="offset_unit"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="no" k="outline_style"/>
+        <prop v="1" k="outline_width"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="solid" k="style"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DCGR3salc" force_rhr="0" clip_to_extent="1">
+      <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+        <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+        <prop v="230,217,242,255" k="color"/>
+        <prop v="bevel" k="joinstyle"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Pixel" k="offset_unit"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="no" k="outline_style"/>
+        <prop v="1" k="outline_width"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="solid" k="style"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DCICT" force_rhr="0" clip_to_extent="1">
+      <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+        <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+        <prop v="181,255,112,255" k="color"/>
+        <prop v="bevel" k="joinstyle"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Pixel" k="offset_unit"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="no" k="outline_style"/>
+        <prop v="1" k="outline_width"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="solid" k="style"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DCMUbu" force_rhr="0" clip_to_extent="1">
+      <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+        <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+        <prop v="112,168,0,255" k="color"/>
+        <prop v="bevel" k="joinstyle"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Pixel" k="offset_unit"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="no" k="outline_style"/>
+        <prop v="1" k="outline_width"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="solid" k="style"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DCMUmu" force_rhr="0" clip_to_extent="1">
+      <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+        <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+        <prop v="52,115,76,255" k="color"/>
+        <prop v="bevel" k="joinstyle"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Pixel" k="offset_unit"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="no" k="outline_style"/>
+        <prop v="1" k="outline_width"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="solid" k="style"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DCMUvb" force_rhr="0" clip_to_extent="1">
+      <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+        <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+        <prop v="115,138,69,255" k="color"/>
+        <prop v="bevel" k="joinstyle"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Pixel" k="offset_unit"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="no" k="outline_style"/>
+        <prop v="1" k="outline_width"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="solid" k="style"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DCSR" force_rhr="0" clip_to_extent="1">
+      <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+        <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+        <prop v="247,229,171,255" k="color"/>
+        <prop v="bevel" k="joinstyle"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Pixel" k="offset_unit"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="no" k="outline_style"/>
+        <prop v="1" k="outline_width"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="solid" k="style"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DCa" force_rhr="0" clip_to_extent="1">
+      <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+        <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+        <prop v="255,251,194,255" k="color"/>
+        <prop v="bevel" k="joinstyle"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Pixel" k="offset_unit"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="no" k="outline_style"/>
+        <prop v="1" k="outline_width"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="solid" k="style"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DCfl" force_rhr="0" clip_to_extent="1">
+      <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+        <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+        <prop v="252,233,164,255" k="color"/>
+        <prop v="bevel" k="joinstyle"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Pixel" k="offset_unit"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="no" k="outline_style"/>
+        <prop v="1" k="outline_width"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="solid" k="style"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DCta" force_rhr="0" clip_to_extent="1">
+      <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+        <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+        <prop v="252,242,189,255" k="color"/>
+        <prop v="bevel" k="joinstyle"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Pixel" k="offset_unit"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="no" k="outline_style"/>
+        <prop v="1" k="outline_width"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="solid" k="style"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DGBko" force_rhr="0" clip_to_extent="1">
+      <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+        <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+        <prop v="189,145,79,255" k="color"/>
+        <prop v="bevel" k="joinstyle"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Pixel" k="offset_unit"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="no" k="outline_style"/>
+        <prop v="1" k="outline_width"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="solid" k="style"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DSP1acgsa" force_rhr="0" clip_to_extent="1">
+      <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+        <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+        <prop v="214,173,156,255" k="color"/>
+        <prop v="bevel" k="joinstyle"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Pixel" k="offset_unit"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="no" k="outline_style"/>
+        <prop v="1" k="outline_width"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="solid" k="style"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DSP1csaa" force_rhr="0" clip_to_extent="1">
+      <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+        <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+        <prop v="214,184,202,255" k="color"/>
+        <prop v="bevel" k="joinstyle"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Pixel" k="offset_unit"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="no" k="outline_style"/>
+        <prop v="1" k="outline_width"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="solid" k="style"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DSP1saagr" force_rhr="0" clip_to_extent="1">
+      <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+        <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+        <prop v="214,182,180,255" k="color"/>
+        <prop v="bevel" k="joinstyle"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Pixel" k="offset_unit"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="no" k="outline_style"/>
+        <prop v="1" k="outline_width"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="solid" k="style"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DSP2mcsaa" force_rhr="0" clip_to_extent="1">
+      <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+        <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+        <prop v="82,112,156,255" k="color"/>
+        <prop v="bevel" k="joinstyle"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Pixel" k="offset_unit"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="no" k="outline_style"/>
+        <prop v="1" k="outline_width"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="solid" k="style"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DSP2mcx" force_rhr="0" clip_to_extent="1">
+      <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+        <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+        <prop v="76,146,173,255" k="color"/>
+        <prop v="bevel" k="joinstyle"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Pixel" k="offset_unit"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="no" k="outline_style"/>
+        <prop v="1" k="outline_width"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="solid" k="style"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DSP2mqmtc" force_rhr="0" clip_to_extent="1">
+      <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+        <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+        <prop v="186,208,230,255" k="color"/>
+        <prop v="bevel" k="joinstyle"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Pixel" k="offset_unit"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="no" k="outline_style"/>
+        <prop v="1" k="outline_width"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="solid" k="style"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DSP2msa" force_rhr="0" clip_to_extent="1">
+      <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+        <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+        <prop v="163,187,214,255" k="color"/>
+        <prop v="bevel" k="joinstyle"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Pixel" k="offset_unit"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="no" k="outline_style"/>
+        <prop v="1" k="outline_width"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="solid" k="style"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DSP2sag" force_rhr="0" clip_to_extent="1">
+      <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+        <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+        <prop v="147,167,194,255" k="color"/>
+        <prop v="bevel" k="joinstyle"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Pixel" k="offset_unit"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="no" k="outline_style"/>
+        <prop v="1" k="outline_width"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="solid" k="style"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DSVEs" force_rhr="0" clip_to_extent="1">
+      <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+        <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+        <prop v="183,173,222,255" k="color"/>
+        <prop v="bevel" k="joinstyle"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Pixel" k="offset_unit"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="no" k="outline_style"/>
+        <prop v="1" k="outline_width"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="solid" k="style"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DSVMPa" force_rhr="0" clip_to_extent="1">
+      <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+        <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+        <prop v="147,199,176,255" k="color"/>
+        <prop v="bevel" k="joinstyle"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Pixel" k="offset_unit"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="no" k="outline_style"/>
+        <prop v="1" k="outline_width"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="solid" k="style"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DSVMPacg" force_rhr="0" clip_to_extent="1">
+      <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+        <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+        <prop v="147,186,130,255" k="color"/>
+        <prop v="bevel" k="joinstyle"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Pixel" k="offset_unit"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="no" k="outline_style"/>
+        <prop v="1" k="outline_width"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="solid" k="style"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DSVMPae" force_rhr="0" clip_to_extent="1">
+      <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+        <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+        <prop v="191,255,233,255" k="color"/>
+        <prop v="bevel" k="joinstyle"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Pixel" k="offset_unit"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="no" k="outline_style"/>
+        <prop v="1" k="outline_width"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="solid" k="style"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DSVMPaef" force_rhr="0" clip_to_extent="1">
+      <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+        <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+        <prop v="191,233,255,255" k="color"/>
+        <prop v="bevel" k="joinstyle"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Pixel" k="offset_unit"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="no" k="outline_style"/>
+        <prop v="1" k="outline_width"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="solid" k="style"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DSVMPap" force_rhr="0" clip_to_extent="1">
+      <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+        <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+        <prop v="147,150,100,255" k="color"/>
+        <prop v="bevel" k="joinstyle"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Pixel" k="offset_unit"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="no" k="outline_style"/>
+        <prop v="1" k="outline_width"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="solid" k="style"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DSVMPasaf" force_rhr="0" clip_to_extent="1">
+      <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+        <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+        <prop v="148,186,121,255" k="color"/>
+        <prop v="bevel" k="joinstyle"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Pixel" k="offset_unit"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="no" k="outline_style"/>
+        <prop v="1" k="outline_width"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="solid" k="style"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DSVMPcgf" force_rhr="0" clip_to_extent="1">
+      <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+        <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+        <prop v="55,196,192,255" k="color"/>
+        <prop v="bevel" k="joinstyle"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Pixel" k="offset_unit"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="no" k="outline_style"/>
+        <prop v="1" k="outline_width"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="solid" k="style"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DSVMPsaa" force_rhr="0" clip_to_extent="1">
+      <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+        <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+        <prop v="156,156,156,255" k="color"/>
+        <prop v="bevel" k="joinstyle"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Pixel" k="offset_unit"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="no" k="outline_style"/>
+        <prop v="1" k="outline_width"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="solid" k="style"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DSVMPsaca" force_rhr="0" clip_to_extent="1">
+      <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+        <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+        <prop v="0,132,168,255" k="color"/>
+        <prop v="bevel" k="joinstyle"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Pixel" k="offset_unit"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="no" k="outline_style"/>
+        <prop v="1" k="outline_width"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="solid" k="style"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DSVP1va" force_rhr="0" clip_to_extent="1">
+      <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+        <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+        <prop v="214,211,0,255" k="color"/>
+        <prop v="bevel" k="joinstyle"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Pixel" k="offset_unit"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="no" k="outline_style"/>
+        <prop v="1" k="outline_width"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="solid" k="style"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DSVP1vaa" force_rhr="0" clip_to_extent="1">
+      <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+        <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+        <prop v="245,122,122,255" k="color"/>
+        <prop v="bevel" k="joinstyle"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Pixel" k="offset_unit"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="no" k="outline_style"/>
+        <prop v="1" k="outline_width"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="solid" k="style"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DSVP2af" force_rhr="0" clip_to_extent="1">
+      <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+        <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+        <prop v="199,215,158,255" k="color"/>
+        <prop v="bevel" k="joinstyle"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Pixel" k="offset_unit"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="no" k="outline_style"/>
+        <prop v="1" k="outline_width"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="solid" k="style"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DSVP2bu" force_rhr="0" clip_to_extent="1">
+      <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+        <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+        <prop v="176,199,133,255" k="color"/>
+        <prop v="bevel" k="joinstyle"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Pixel" k="offset_unit"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="no" k="outline_style"/>
+        <prop v="1" k="outline_width"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="solid" k="style"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DSVP2csa" force_rhr="0" clip_to_extent="1">
+      <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+        <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+        <prop v="148,158,125,255" k="color"/>
+        <prop v="bevel" k="joinstyle"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Pixel" k="offset_unit"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="no" k="outline_style"/>
+        <prop v="1" k="outline_width"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="solid" k="style"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DSVP2gratv" force_rhr="0" clip_to_extent="1">
+      <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+        <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+        <prop v="168,181,161,255" k="color"/>
+        <prop v="bevel" k="joinstyle"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Pixel" k="offset_unit"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="no" k="outline_style"/>
+        <prop v="1" k="outline_width"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="solid" k="style"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DSVP2vfc" force_rhr="0" clip_to_extent="1">
+      <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+        <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+        <prop v="169,181,143,255" k="color"/>
+        <prop v="bevel" k="joinstyle"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Pixel" k="offset_unit"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="no" k="outline_style"/>
+        <prop v="1" k="outline_width"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="solid" k="style"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DVMb" force_rhr="0" clip_to_extent="1">
+      <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+        <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+        <prop v="140,181,123,255" k="color"/>
+        <prop v="bevel" k="joinstyle"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Pixel" k="offset_unit"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="no" k="outline_style"/>
+        <prop v="1" k="outline_width"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="solid" k="style"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DVMgd" force_rhr="0" clip_to_extent="1">
+      <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+        <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+        <prop v="81,194,145,255" k="color"/>
+        <prop v="bevel" k="joinstyle"/>
+        <prop v="0,0" k="offset"/>
+        <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+        <prop v="Pixel" k="offset_unit"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="no" k="outline_style"/>
+        <prop v="1" k="outline_width"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="solid" k="style"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" value="" name="name"/>
+            <Option name="properties"/>
+            <Option type="QString" value="collection" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+  </symbols>
+  <colorramps/>
+  <textformats/>
+  <labelsettings/>
+</qgis_style>
