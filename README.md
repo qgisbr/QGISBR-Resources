@@ -19,5 +19,9 @@ resources that can be shared with the QGIS Resources Sharing.
 
 ![Simbologias](collections/sistema_classificacao_uso_terra_scut/preview/uso_terra.png)
 
+[**Simbologias para mapeamento geológico do Serviço Geológico do Brasil – CPRM**](https://github.com/qgisbr/QGISBR-Resources/tree/main/collections/geologia_cprm): Simbologias para mapeamento geológico do Serviço Geológico do Brasil –  CPRM
+
+![Simbologias](https://user-images.githubusercontent.com/53950449/117207174-098a7500-adca-11eb-824e-4ac69d0b6cd1.png)
+
 
 
