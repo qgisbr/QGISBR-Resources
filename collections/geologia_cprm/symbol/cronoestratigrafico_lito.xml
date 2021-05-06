@@ -1,7 +1,7 @@
 <!DOCTYPE qgis_style>
 <qgis_style version="2">
   <symbols>
-    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 1, Eoarqueano" force_rhr="0" clip_to_extent="1">
+    <symbol type="fill" alpha="1" name="1, Eoarqueano" force_rhr="0" clip_to_extent="1">
       <layer enabled="1" pass="0" class="SimpleFill" locked="0">
         <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
         <prop v="217,3,128,255" k="color"/>
@@ -23,7 +23,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 10, Ectasiano" force_rhr="0" clip_to_extent="1">
+    <symbol type="fill" alpha="1" name=" 10, Ectasiano" force_rhr="0" clip_to_extent="1">
       <layer enabled="1" pass="0" class="SimpleFill" locked="0">
         <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
         <prop v="252,181,97,255" k="color"/>
@@ -45,7 +45,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 11, Esteniano" force_rhr="0" clip_to_extent="1">
+    <symbol type="fill" alpha="1" name=" 11, Esteniano" force_rhr="0" clip_to_extent="1">
       <layer enabled="1" pass="0" class="SimpleFill" locked="0">
         <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
         <prop v="252,181,97,255" k="color"/>
@@ -67,7 +67,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 12, Toniano" force_rhr="0" clip_to_extent="1">
+    <symbol type="fill" alpha="1" name=" 12, Toniano" force_rhr="0" clip_to_extent="1">
       <layer enabled="1" pass="0" class="SimpleFill" locked="0">
         <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
         <prop v="255,178,66,255" k="color"/>
@@ -89,7 +89,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 13, Criogeniano" force_rhr="0" clip_to_extent="1">
+    <symbol type="fill" alpha="1" name=" 13, Criogeniano" force_rhr="0" clip_to_extent="1">
       <layer enabled="1" pass="0" class="SimpleFill" locked="0">
         <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
         <prop v="255,178,66,255" k="color"/>
@@ -111,7 +111,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 14, Ediacarano" force_rhr="0" clip_to_extent="1">
+    <symbol type="fill" alpha="1" name=" 14, Ediacarano" force_rhr="0" clip_to_extent="1">
       <layer enabled="1" pass="0" class="SimpleFill" locked="0">
         <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
         <prop v="255,178,66,255" k="color"/>
@@ -133,7 +133,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 15, Cambriano" force_rhr="0" clip_to_extent="1">
+    <symbol type="fill" alpha="1" name=" 15, Cambriano" force_rhr="0" clip_to_extent="1">
       <layer enabled="1" pass="0" class="SimpleFill" locked="0">
         <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
         <prop v="128,161,87,255" k="color"/>
@@ -155,7 +155,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 16, Ordoviciano" force_rhr="0" clip_to_extent="1">
+    <symbol type="fill" alpha="1" name=" 16, Ordoviciano" force_rhr="0" clip_to_extent="1">
       <layer enabled="1" pass="0" class="SimpleFill" locked="0">
         <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
         <prop v="0,145,112,255" k="color"/>
@@ -177,7 +177,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 17, Siluriano" force_rhr="0" clip_to_extent="1">
+    <symbol type="fill" alpha="1" name=" 17, Siluriano" force_rhr="0" clip_to_extent="1">
       <layer enabled="1" pass="0" class="SimpleFill" locked="0">
         <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
         <prop v="178,224,181,255" k="color"/>
@@ -199,7 +199,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 18, Devoniano" force_rhr="0" clip_to_extent="1">
+    <symbol type="fill" alpha="1" name=" 18, Devoniano" force_rhr="0" clip_to_extent="1">
       <layer enabled="1" pass="0" class="SimpleFill" locked="0">
         <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
         <prop v="204,140,56,255" k="color"/>
@@ -221,7 +221,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 19, Carbonífero" force_rhr="0" clip_to_extent="1">
+    <symbol type="fill" alpha="1" name=" 19, Carbonífero" force_rhr="0" clip_to_extent="1">
       <layer enabled="1" pass="0" class="SimpleFill" locked="0">
         <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
         <prop v="102,166,153,255" k="color"/>
@@ -243,7 +243,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 2, Paleoarqueano" force_rhr="0" clip_to_extent="1">
+    <symbol type="fill" alpha="1" name=" 2, Paleoarqueano" force_rhr="0" clip_to_extent="1">
       <layer enabled="1" pass="0" class="SimpleFill" locked="0">
         <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
         <prop v="245,69,158,255" k="color"/>
@@ -265,7 +265,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 20, Permiano" force_rhr="0" clip_to_extent="1">
+    <symbol type="fill" alpha="1" name=" 20, Permiano" force_rhr="0" clip_to_extent="1">
       <layer enabled="1" pass="0" class="SimpleFill" locked="0">
         <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
         <prop v="249,64,41,255" k="color"/>
@@ -287,7 +287,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 21, Triássico" force_rhr="0" clip_to_extent="1">
+    <symbol type="fill" alpha="1" name=" 21, Triássico" force_rhr="0" clip_to_extent="1">
       <layer enabled="1" pass="0" class="SimpleFill" locked="0">
         <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
         <prop v="130,43,145,255" k="color"/>
@@ -309,7 +309,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 22, Jurássico" force_rhr="0" clip_to_extent="1">
+    <symbol type="fill" alpha="1" name=" 22, Jurássico" force_rhr="0" clip_to_extent="1">
       <layer enabled="1" pass="0" class="SimpleFill" locked="0">
         <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
         <prop v="51,178,201,255" k="color"/>
@@ -331,7 +331,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 23, Cretáceo" force_rhr="0" clip_to_extent="1">
+    <symbol type="fill" alpha="1" name=" 23, Cretáceo" force_rhr="0" clip_to_extent="1">
       <layer enabled="1" pass="0" class="SimpleFill" locked="0">
         <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
         <prop v="128,199,79,255" k="color"/>
@@ -353,7 +353,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 24, Paleogeno" force_rhr="0" clip_to_extent="1">
+    <symbol type="fill" alpha="1" name=" 24, Paleogeno" force_rhr="0" clip_to_extent="1">
       <layer enabled="1" pass="0" class="SimpleFill" locked="0">
         <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
         <prop v="252,153,82,255" k="color"/>
@@ -375,7 +375,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 25, Neogeno" force_rhr="0" clip_to_extent="1">
+    <symbol type="fill" alpha="1" name=" 25, Neogeno" force_rhr="0" clip_to_extent="1">
       <layer enabled="1" pass="0" class="SimpleFill" locked="0">
         <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
         <prop v="255,229,26,255" k="color"/>
@@ -397,7 +397,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 3, Mesoarqueano" force_rhr="0" clip_to_extent="1">
+    <symbol type="fill" alpha="1" name=" 3, Mesoarqueano" force_rhr="0" clip_to_extent="1">
       <layer enabled="1" pass="0" class="SimpleFill" locked="0">
         <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
         <prop v="247,105,168,255" k="color"/>
@@ -419,7 +419,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 4, Neoarqueano" force_rhr="0" clip_to_extent="1">
+    <symbol type="fill" alpha="1" name=" 4, Neoarqueano" force_rhr="0" clip_to_extent="1">
       <layer enabled="1" pass="0" class="SimpleFill" locked="0">
         <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
         <prop v="250,166,199,255" k="color"/>
@@ -441,7 +441,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 5, Sideriano" force_rhr="0" clip_to_extent="1">
+    <symbol type="fill" alpha="1" name=" 5, Sideriano" force_rhr="0" clip_to_extent="1">
       <layer enabled="1" pass="0" class="SimpleFill" locked="0">
         <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
         <prop v="247,66,112,255" k="color"/>
@@ -463,7 +463,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 6, Riaciano" force_rhr="0" clip_to_extent="1">
+    <symbol type="fill" alpha="1" name=" 6, Riaciano" force_rhr="0" clip_to_extent="1">
       <layer enabled="1" pass="0" class="SimpleFill" locked="0">
         <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
         <prop v="247,66,112,255" k="color"/>
@@ -485,7 +485,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 7, Orosiriano" force_rhr="0" clip_to_extent="1">
+    <symbol type="fill" alpha="1" name=" 7, Orosiriano" force_rhr="0" clip_to_extent="1">
       <layer enabled="1" pass="0" class="SimpleFill" locked="0">
         <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
         <prop v="247,66,112,255" k="color"/>
@@ -507,7 +507,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 8, Estateriano" force_rhr="0" clip_to_extent="1">
+    <symbol type="fill" alpha="1" name=" 8, Estateriano" force_rhr="0" clip_to_extent="1">
       <layer enabled="1" pass="0" class="SimpleFill" locked="0">
         <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
         <prop v="247,66,112,255" k="color"/>
@@ -529,7 +529,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 9, Calimiano" force_rhr="0" clip_to_extent="1">
+    <symbol type="fill" alpha="1" name=" 9, Calimiano" force_rhr="0" clip_to_extent="1">
       <layer enabled="1" pass="0" class="SimpleFill" locked="0">
         <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
         <prop v="252,181,97,255" k="color"/>
