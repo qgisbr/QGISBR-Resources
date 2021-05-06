@@ -1,7 +1,7 @@
 <!DOCTYPE qgis_style>
 <qgis_style version="2">
   <symbols>
-    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DCAalc" force_rhr="0" clip_to_extent="1">
+    <symbol type="fill" alpha="1" name="DCAalc" force_rhr="0" clip_to_extent="1">
       <layer enabled="1" pass="0" class="SimpleFill" locked="0">
         <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
         <prop v="200,122,122,255" k="color"/>
@@ -23,7 +23,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DCDL" force_rhr="0" clip_to_extent="1">
+    <symbol type="fill" alpha="1" name="DCDL" force_rhr="0" clip_to_extent="1">
       <layer enabled="1" pass="0" class="SimpleFill" locked="0">
         <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
         <prop v="255,145,0,255" k="color"/>
@@ -45,7 +45,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DCDLi" force_rhr="0" clip_to_extent="1">
+    <symbol type="fill" alpha="1" name="DCDLi" force_rhr="0" clip_to_extent="1">
       <layer enabled="1" pass="0" class="SimpleFill" locked="0">
         <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
         <prop v="255,179,107,255" k="color"/>
@@ -67,7 +67,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DCGMGLaf" force_rhr="0" clip_to_extent="1">
+    <symbol type="fill" alpha="1" name="DCGMGLaf" force_rhr="0" clip_to_extent="1">
       <layer enabled="1" pass="0" class="SimpleFill" locked="0">
         <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
         <prop v="250,157,218,255" k="color"/>
@@ -89,7 +89,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DCGMGLglo" force_rhr="0" clip_to_extent="1">
+    <symbol type="fill" alpha="1" name="DCGMGLglo" force_rhr="0" clip_to_extent="1">
       <layer enabled="1" pass="0" class="SimpleFill" locked="0">
         <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
         <prop v="242,121,172,255" k="color"/>
@@ -111,7 +111,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DCGMGLglp" force_rhr="0" clip_to_extent="1">
+    <symbol type="fill" alpha="1" name="DCGMGLglp" force_rhr="0" clip_to_extent="1">
       <layer enabled="1" pass="0" class="SimpleFill" locked="0">
         <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
         <prop v="196,115,178,255" k="color"/>
@@ -133,7 +133,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DCGMGLgno" force_rhr="0" clip_to_extent="1">
+    <symbol type="fill" alpha="1" name="DCGMGLgno" force_rhr="0" clip_to_extent="1">
       <layer enabled="1" pass="0" class="SimpleFill" locked="0">
         <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
         <prop v="245,223,247,255" k="color"/>
@@ -155,7 +155,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DCGR1alc" force_rhr="0" clip_to_extent="1">
+    <symbol type="fill" alpha="1" name="DCGR1alc" force_rhr="0" clip_to_extent="1">
       <layer enabled="1" pass="0" class="SimpleFill" locked="0">
         <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
         <prop v="255,167,127,255" k="color"/>
@@ -177,7 +177,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DCGR1ch" force_rhr="0" clip_to_extent="1">
+    <symbol type="fill" alpha="1" name="DCGR1ch" force_rhr="0" clip_to_extent="1">
       <layer enabled="1" pass="0" class="SimpleFill" locked="0">
         <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
         <prop v="245,122,122,255" k="color"/>
@@ -199,7 +199,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DCGR1in" force_rhr="0" clip_to_extent="1">
+    <symbol type="fill" alpha="1" name="DCGR1in" force_rhr="0" clip_to_extent="1">
       <layer enabled="1" pass="0" class="SimpleFill" locked="0">
         <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
         <prop v="255,155,60,255" k="color"/>
@@ -221,7 +221,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DCGR1salc" force_rhr="0" clip_to_extent="1">
+    <symbol type="fill" alpha="1" name="DCGR1salc" force_rhr="0" clip_to_extent="1">
       <layer enabled="1" pass="0" class="SimpleFill" locked="0">
         <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
         <prop v="255,0,0,255" k="color"/>
@@ -243,7 +243,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DCGR2alc" force_rhr="0" clip_to_extent="1">
+    <symbol type="fill" alpha="1" name="DCGR2alc" force_rhr="0" clip_to_extent="1">
       <layer enabled="1" pass="0" class="SimpleFill" locked="0">
         <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
         <prop v="230,92,0,255" k="color"/>
@@ -265,7 +265,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DCGR3ch" force_rhr="0" clip_to_extent="1">
+    <symbol type="fill" alpha="1" name="DCGR3ch" force_rhr="0" clip_to_extent="1">
       <layer enabled="1" pass="0" class="SimpleFill" locked="0">
         <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
         <prop v="245,77,122,255" k="color"/>
@@ -287,7 +287,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DCGR3in" force_rhr="0" clip_to_extent="1">
+    <symbol type="fill" alpha="1" name="DCGR3in" force_rhr="0" clip_to_extent="1">
       <layer enabled="1" pass="0" class="SimpleFill" locked="0">
         <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
         <prop v="205,137,102,255" k="color"/>
@@ -309,7 +309,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DCGR3salc" force_rhr="0" clip_to_extent="1">
+    <symbol type="fill" alpha="1" name="DCGR3salc" force_rhr="0" clip_to_extent="1">
       <layer enabled="1" pass="0" class="SimpleFill" locked="0">
         <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
         <prop v="215,194,158,255" k="color"/>
@@ -331,7 +331,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DCMUbu" force_rhr="0" clip_to_extent="1">
+    <symbol type="fill" alpha="1" name="DCMUbu" force_rhr="0" clip_to_extent="1">
       <layer enabled="1" pass="0" class="SimpleFill" locked="0">
         <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
         <prop v="176,139,46,255" k="color"/>
@@ -353,7 +353,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DCMUmu" force_rhr="0" clip_to_extent="1">
+    <symbol type="fill" alpha="1" name="DCMUmu" force_rhr="0" clip_to_extent="1">
       <layer enabled="1" pass="0" class="SimpleFill" locked="0">
         <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
         <prop v="52,115,76,255" k="color"/>
@@ -375,7 +375,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DCT" force_rhr="0" clip_to_extent="1">
+    <symbol type="fill" alpha="1" name="DCT" force_rhr="0" clip_to_extent="1">
       <layer enabled="1" pass="0" class="SimpleFill" locked="0">
         <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
         <prop v="252,206,0,255" k="color"/>
@@ -397,7 +397,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DCa" force_rhr="0" clip_to_extent="1">
+    <symbol type="fill" alpha="1" name="DCa" force_rhr="0" clip_to_extent="1">
       <layer enabled="1" pass="0" class="SimpleFill" locked="0">
         <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
         <prop v="250,244,185,255" k="color"/>
@@ -419,7 +419,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DCfl" force_rhr="0" clip_to_extent="1">
+    <symbol type="fill" alpha="1" name="DCfl" force_rhr="0" clip_to_extent="1">
       <layer enabled="1" pass="0" class="SimpleFill" locked="0">
         <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
         <prop v="255,255,133,255" k="color"/>
@@ -441,7 +441,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DCm" force_rhr="0" clip_to_extent="1">
+    <symbol type="fill" alpha="1" name="DCm" force_rhr="0" clip_to_extent="1">
       <layer enabled="1" pass="0" class="SimpleFill" locked="0">
         <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
         <prop v="255,253,145,255" k="color"/>
@@ -463,7 +463,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DGBko" force_rhr="0" clip_to_extent="1">
+    <symbol type="fill" alpha="1" name="DGBko" force_rhr="0" clip_to_extent="1">
       <layer enabled="1" pass="0" class="SimpleFill" locked="0">
         <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
         <prop v="189,145,79,255" k="color"/>
@@ -485,7 +485,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DGBss" force_rhr="0" clip_to_extent="1">
+    <symbol type="fill" alpha="1" name="DGBss" force_rhr="0" clip_to_extent="1">
       <layer enabled="1" pass="0" class="SimpleFill" locked="0">
         <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
         <prop v="189,131,60,255" k="color"/>
@@ -507,7 +507,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DSVMPac" force_rhr="0" clip_to_extent="1">
+    <symbol type="fill" alpha="1" name="DSVMPac" force_rhr="0" clip_to_extent="1">
       <layer enabled="1" pass="0" class="SimpleFill" locked="0">
         <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
         <prop v="147,186,130,255" k="color"/>
@@ -529,7 +529,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DSVMPactf" force_rhr="0" clip_to_extent="1">
+    <symbol type="fill" alpha="1" name="DSVMPactf" force_rhr="0" clip_to_extent="1">
       <layer enabled="1" pass="0" class="SimpleFill" locked="0">
         <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
         <prop v="15,156,117,255" k="color"/>
@@ -551,7 +551,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DSVMPasaf" force_rhr="0" clip_to_extent="1">
+    <symbol type="fill" alpha="1" name="DSVMPasaf" force_rhr="0" clip_to_extent="1">
       <layer enabled="1" pass="0" class="SimpleFill" locked="0">
         <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
         <prop v="87,235,145,255" k="color"/>
@@ -573,7 +573,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DSVP2avf" force_rhr="0" clip_to_extent="1">
+    <symbol type="fill" alpha="1" name="DSVP2avf" force_rhr="0" clip_to_extent="1">
       <layer enabled="1" pass="0" class="SimpleFill" locked="0">
         <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
         <prop v="51,239,250,255" k="color"/>
@@ -595,7 +595,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DSVP2bu" force_rhr="0" clip_to_extent="1">
+    <symbol type="fill" alpha="1" name="DSVP2bu" force_rhr="0" clip_to_extent="1">
       <layer enabled="1" pass="0" class="SimpleFill" locked="0">
         <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
         <prop v="148,230,255,255" k="color"/>
@@ -617,7 +617,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DSVP2q" force_rhr="0" clip_to_extent="1">
+    <symbol type="fill" alpha="1" name="DSVP2q" force_rhr="0" clip_to_extent="1">
       <layer enabled="1" pass="0" class="SimpleFill" locked="0">
         <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
         <prop v="194,230,255,255" k="color"/>
@@ -639,7 +639,7 @@
         </data_defined_properties>
       </layer>
     </symbol>
-    <symbol type="fill" alpha="1" name="Unidades_litoestratigráficas___1_100_000 DSVP2vfc" force_rhr="0" clip_to_extent="1">
+    <symbol type="fill" alpha="1" name="DSVP2vfc" force_rhr="0" clip_to_extent="1">
       <layer enabled="1" pass="0" class="SimpleFill" locked="0">
         <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
         <prop v="210,255,255,255" k="color"/>
