@@ -1,4 +1,4 @@
-# Geolocig XML Files
+# Geologic XML Files
 
  - [Arquivos convertidos da base de dados da CPRM](http://geosgb.cprm.gov.br/geosgb/manuais.html
 ) para XML
