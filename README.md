@@ -1,7 +1,7 @@
 # QGISBR Sharing Resources
 
-This repository contains styles, scripts, models and other QGIS 
-resources that can be shared with the QGIS Resources Sharing.
+This repository contains styles, scripts, models, and other QGIS 
+resources that you can share through the [QGIS Resources Sharing](https://plugins.qgis.org/plugins/qgis_resource_sharing/).
 
 ## Collections
 
