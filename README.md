@@ -1,7 +1,7 @@
 # QGISBR Sharing Resources
 
-This repository contains styles, scripts, models and other QGIS 
-resources that can be shared with the QGIS Resources Sharing.
+This repository contains styles, scripts, models, and other QGIS 
+resources that you can share through the [QGIS Resources Sharing](https://plugins.qgis.org/plugins/qgis_resource_sharing/).
 
 ## Collections
 
@@ -21,7 +21,9 @@ resources that can be shared with the QGIS Resources Sharing.
 
 [**Simbologias para mapeamento geológico do Serviço Geológico do Brasil – CPRM**](https://github.com/qgisbr/QGISBR-Resources/tree/main/collections/geologia_cprm): Simbologias para mapeamento geológico do Serviço Geológico do Brasil –  CPRM
 
-![Simbologias](https://user-images.githubusercontent.com/53950449/117207174-098a7500-adca-11eb-824e-4ac69d0b6cd1.png)
+![Simbologias](https://user-images.githubusercontent.com/53950449/120331463-2c725100-c2c4-11eb-8758-60b4f2c5bb90.jpg)
+
+
 
 
 
