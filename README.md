@@ -11,19 +11,14 @@ resources that you can share through the [QGIS Resources Sharing](https://plugin
 
 ![No Grid](collections/grid_polygon/preview/no_grid.png)
 
-[**Simbologias do Sistema Brasileiro de Classificação de Solos**](https://github.com/qgisbr/QGISBR-Resources/tree/main/collections/classificacao_solos_embrapa): Simbologias usadas para a confecção de mapas/cartas de solos, com o emprego do Sistema Brasileiro de Classificação de Solos. As cores foram estabelecidas em consonância com o que já vem sendo praticado há muito, pela Embrapa Solos e outras instituições, e estão definidas até o nível de Subordens.
+[**Symbols of the _Sistema Brasileiro de Classificação de Solos_ [Brazilian Soil Classification System]**](https://github.com/qgisbr/QGISBR-Resources/tree/main/collections/classificacao_solos_embrapa): Symbols for making soil maps/charts, using the _Sistema Brasileiro de Classificação de Solos_ [Brazilian Soil Classification System]. The colors were established according to what has been practiced for a long time, by Embrapa Solos and other institutions, and are defined up to the level of Sub-Orders.
 
-![Simbologias](collections/classificacao_solos_embrapa/preview/solos.png)
+![Symbols](collections/classificacao_solos_embrapa/preview/solos.png)
 
-[**Simbologias do Sistema de Classificação de Uso da Terra - SCUT**](https://github.com/qgisbr/QGISBR-Resources/tree/main/collections/sistema_classificacao_uso_terra_scut): Simbologias das classes da cobertura e uso da terra Níveis I e II do Sistema de Classificação de Uso da Terra - SCUT 
+[**Symbols of the _Sistema de Classificação de Uso da Terra_ [Land Use Classification System] - SCUT**](https://github.com/qgisbr/QGISBR-Resources/tree/main/collections/sistema_classificacao_uso_terra_scut): Symbols of land cover and land use classes Levels I and II of the _Sistema de Classificação de Uso da Terra_ [Land Use Classification System] - SCUT
 
-![Simbologias](collections/sistema_classificacao_uso_terra_scut/preview/uso_terra.png)
+![Symbols](collections/sistema_classificacao_uso_terra_scut/preview/uso_terra.png)
 
-[**Simbologias para mapeamento geológico do Serviço Geológico do Brasil – CPRM**](https://github.com/qgisbr/QGISBR-Resources/tree/main/collections/geologia_cprm): Simbologias para mapeamento geológico do Serviço Geológico do Brasil –  CPRM
+[**Symbols for geological mapping of the Serviço Geológico do Brasil – CPRM**](https://github.com/qgisbr/QGISBR-Resources/tree/main/collections/geologia_cprm): Symbols for geological mapping of the Serviço Geológico do Brasil –  CPRM
 
-![Simbologias](https://user-images.githubusercontent.com/53950449/120331463-2c725100-c2c4-11eb-8758-60b4f2c5bb90.jpg)
-
-
-
-
-
+![Symbols](https://user-images.githubusercontent.com/53950449/120331463-2c725100-c2c4-11eb-8758-60b4f2c5bb90.jpg)
