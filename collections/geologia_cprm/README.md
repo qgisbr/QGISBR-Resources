@@ -1,31 +1,29 @@
 # Geologic XML Files
 
- - [Arquivos convertidos da base de dados da CPRM](http://geosgb.cprm.gov.br/geosgb/manuais.html
-) para XML
+- Em Abril de 2021, as Equipes do Departamento de Informações Institucionais, a Divisão de Geoprocessamento e Divisão de Geologia Básica lançaram uma atualização das simbologias geológicas oficiais. Um novo conjunto de símbolos, estilos e paletas de cores para informações geocientíficas. 
 
- - Litologia Cronoestratigráfica
+- Agora, há total compatibilidade com QGIS!
+
+- Para ler a reportagem oficial na íntegra, visite o [Portal da CPRM](https://www.cprm.gov.br/publique/Noticias/Bibliotecas-de-Simbologia-para-Mapas-Geocientificos-ja-estao-disponiveis-para-acesso-7286.html)
+
+ - [Repositório Oficial do Serviço Geológico do Brasil com os dados de simbologia](https://github.com/sgb-cprm/simbologia-mapeamento-geologico
+)
+
+ - Geologia
+ 	
+
+ - Geologia Marinha
+   
+
+ - Domínios Hidrogeológicos
+   
  
-    ![cronoestratigrafico](https://user-images.githubusercontent.com/53950449/120333380-03eb5680-c2c6-11eb-93a8-81b39bb89534.png)
+ - Hidrogeologia
+   
 
-   - Domínios
+ - Poços de Petróleo
    
-   ![dominios](https://user-images.githubusercontent.com/53950449/120333313-f2a24a00-c2c5-11eb-93a2-918d9ef48c6c.png)
-
-   - Geodiversidade
+ - Unidade Litoestratigráfica
    
-  ![geodiversidade](https://user-images.githubusercontent.com/53950449/120333325-f635d100-c2c5-11eb-9936-83385c7e91ae.png)
- 
-  - Litologias Simplificadas
-   
-  ![geologia_simplificada](https://user-images.githubusercontent.com/53950449/120333771-67758400-c2c6-11eb-94db-e5970162103d.png)
-
-   - Unidades Geológicas Ambientais
-   
-   ![unidades_geologicas_ambientais](https://user-images.githubusercontent.com/53950449/120333819-74927300-c2c6-11eb-9de9-dfd6a1f1850e.png)
-
-   
-   - Unidade Litoestratigráfica na escala 1:100.000
-   
-  ![un_litoestratigraficas_escala_1-100_000](https://user-images.githubusercontent.com/53950449/120333840-79efbd80-c2c6-11eb-92fb-3793b352c03d.png)
 
 
