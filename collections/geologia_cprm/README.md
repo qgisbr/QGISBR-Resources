@@ -1,31 +1,47 @@
 # Geologic XML Files
 
- - [Arquivos convertidos da base de dados da CPRM](http://geosgb.cprm.gov.br/geosgb/manuais.html
-) para XML
+- Em Abril de 2021, as Equipes do Departamento de Informações Institucionais, a Divisão de Geoprocessamento e Divisão de Geologia Básica lançaram uma atualização das simbologias geológicas oficiais. Um novo conjunto de símbolos, estilos e paletas de cores para informações geocientíficas. 
 
- - Litologia Cronoestratigráfica
- 
-    ![cronoestratigrafico](https://user-images.githubusercontent.com/53950449/120333380-03eb5680-c2c6-11eb-93a8-81b39bb89534.png)
+- Agora, há total compatibilidade com QGIS!
 
-   - Domínios
-   
-   ![dominios](https://user-images.githubusercontent.com/53950449/120333313-f2a24a00-c2c5-11eb-93a2-918d9ef48c6c.png)
+- Para ler a reportagem oficial na íntegra, visite o [Portal da CPRM](https://www.cprm.gov.br/publique/Noticias/Bibliotecas-de-Simbologia-para-Mapas-Geocientificos-ja-estao-disponiveis-para-acesso-7286.html)
 
-   - Geodiversidade
-   
-  ![geodiversidade](https://user-images.githubusercontent.com/53950449/120333325-f635d100-c2c5-11eb-9936-83385c7e91ae.png)
- 
-  - Litologias Simplificadas
-   
-  ![geologia_simplificada](https://user-images.githubusercontent.com/53950449/120333771-67758400-c2c6-11eb-94db-e5970162103d.png)
+ - [Repositório Oficial do Serviço Geológico do Brasil com os dados de simbologia](https://github.com/sgb-cprm/simbologia-mapeamento-geologico
+)
 
-   - Unidades Geológicas Ambientais
-   
-   ![unidades_geologicas_ambientais](https://user-images.githubusercontent.com/53950449/120333819-74927300-c2c6-11eb-9de9-dfd6a1f1850e.png)
+  - Geologia
 
-   
-   - Unidade Litoestratigráfica na escala 1:100.000
-   
-  ![un_litoestratigraficas_escala_1-100_000](https://user-images.githubusercontent.com/53950449/120333840-79efbd80-c2c6-11eb-92fb-3793b352c03d.png)
+  ![image](https://user-images.githubusercontent.com/53950449/167477932-528a9e3e-1548-4fa2-b4c1-43c7920a2c6c.png)
+
+
+  - Paleontologia 
+  
+  ![image](https://user-images.githubusercontent.com/53950449/167478063-baac9966-9c84-4141-a127-892be6e04318.png)
+
+
+  - Geologia Marinha
+
+  ![image](https://user-images.githubusercontent.com/53950449/167478182-9e6b1d4d-a60c-43fd-aaef-3eb7495d966d.png)
+
+
+  - Domínios Hidrogeológicos
+
+   ![image](https://user-images.githubusercontent.com/53950449/167477705-b7f4d174-9eaa-432e-8a9b-bd0ad8f29e6d.png)
+
+
+  - Hidrogeologia
+
+   ![image](https://user-images.githubusercontent.com/53950449/167477640-2b190815-f26a-47ef-8c50-6173c5ed622d.png)
+
+
+  - Poços de Petróleo
+
+    ![image](https://user-images.githubusercontent.com/53950449/167477582-deb339d5-2d68-454f-bff9-244cc31842e3.png)
+
+
+  - Unidade Litoestratigráfica
+  
+    ![image](https://user-images.githubusercontent.com/53950449/167477546-9eadbe92-da7d-4990-a88b-593ed61c47df.png)
+
 
 
