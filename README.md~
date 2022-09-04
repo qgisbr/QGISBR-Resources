@@ -5,12 +5,6 @@ resources that you can share through the [QGIS Resources Sharing](https://plugin
 
 ## Collections
 
-[**Split Population**](https://github.com/qgisbr/QGISBR-Resources/tree/main/collections/split_population): Group census data, population, based on a cut-off value or number of groups!
-
-![Example](collections/split_population/preview/example_slipt_population_ceara_br.png)
-
-![Example](collections/split_population/preview/example_slipt_population_goias_br.png)
-
 [**Grid Polygon**](https://github.com/qgisbr/QGISBR-Resources/tree/main/collections/grid_polygon): Creates a grid of coordinates around a selected feature!
 
 ![With Grid](collections/grid_polygon/preview/with_grid.png)
