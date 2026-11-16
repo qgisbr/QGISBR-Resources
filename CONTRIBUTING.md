@@ -12,6 +12,7 @@ Cada coleção deve ficar em uma pasta própria dentro do diretório `collection
 
 ```text
 QGISBR-Resources/
+├── metadata.ini                  # Arquivo central de registro das coleções
 └── collections/
     └── nome-da-sua-colecao/
         ├── metadata.ini          # (Obrigatório) Metadados exibidos no plugin
